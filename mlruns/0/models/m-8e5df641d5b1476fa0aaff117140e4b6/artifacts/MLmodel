@@ -1,0 +1,20 @@
+artifact_path: file:///F:/MLOps/Deep Learning Classification/Deep-Learning-Classification-using-Mlflow-and-DVC/mlruns/0/models/m-8e5df641d5b1476fa0aaff117140e4b6/artifacts
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.12.1
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.10.18
+mlflow_version: 3.10.0
+model_id: m-8e5df641d5b1476fa0aaff117140e4b6
+model_size_bytes: 59141251
+model_uuid: m-8e5df641d5b1476fa0aaff117140e4b6
+prompts: null
+run_id: 71993570ac6a45958a54e6f448569adf
+utc_time_created: '2026-03-11 18:20:29.072901'
